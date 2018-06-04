@@ -4,7 +4,6 @@ import pandas as pd
 import numpy as np
 
 # 2nd testing file
-# 2nd comment
 
 now = datetime.datetime.now()
 dba=gmmpy.Database() 
